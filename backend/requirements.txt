@@ -5,3 +5,4 @@ requests
 python-multipart
 PyYAML
 torch
+open_clip_torch
